@@ -1,0 +1,1 @@
+Objective To deploy a highly available web application on AWS using Terraform, with an Application Load Balancer (ALB) distributing traffic across instances in an Auto Scaling Group (ASG). The deployment includes a bastion host for SSH access, and secure network configurations using public and private subnets with a NAT gateway for outbound internet access from private instances.
